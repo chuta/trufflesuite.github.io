@@ -1,6 +1,6 @@
 # Location
 
-All of your contracts are located in the `./contracts` directory. By default you're given an example Solidity [contract](http://solidity.readthedocs.org/en/latest/contracts.html) file and an example Solidity [library](http://solidity.readthedocs.org/en/latest/contracts.html#libraries) file, both with filenames ending in `.sol`. Although a Solidity library is different than a contract, for documentation purposes we're going to lump these into the same word, "contracts".
+All of your contracts are located in the `./contracts` directory. By default you're given an example Solidity [contract](http://solidity.readthedocs.org/en/latest/contracts.html) file and an example Solidity [library](http://solidity.readthedocs.org/en/latest/contracts.html#libraries) file, both with filenames ending in `.sol`. Although a Solidity library is different from a contract, for documentation purposes we're going to lump these into the same word, "contracts".
 
 # Command
 
